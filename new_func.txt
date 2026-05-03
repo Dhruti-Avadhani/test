@@ -1,4 +1,4 @@
-
+password = "supersecretpassword123"
 import threading
 import time
 import random
